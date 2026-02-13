@@ -1,0 +1,12 @@
+
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+langchain_core
+streamlit
+python-dotenv
+requests
+PyPDF2
+httpx
+tenacity
