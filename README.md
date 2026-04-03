@@ -10,6 +10,13 @@ An **agentic AI system for end-to-end research paper generation**, capable of:
 
 This project demonstrates **real-world agent orchestration**, **tool usage**, **memory**, and **LLM-driven reasoning**, making it ideal for **AI Engineer / GenAI Engineer portfolios**.
 
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/cad92efa-5d70-4121-90c6-35f0f31af415" />
+<img width="1596" height="669" alt="image" src="https://github.com/user-attachments/assets/357ba76d-962f-4574-8317-ce9796a395da" />
+<img width="1621" height="716" alt="image" src="https://github.com/user-attachments/assets/75dbd130-ca0f-47b8-afd1-b91b8a387836" />
+<img width="1698" height="870" alt="image" src="https://github.com/user-attachments/assets/e811dbf9-cdf6-4885-874c-2ad7187d8f73" />
+
+
+
 ---
 ## TOPIC COVERED : 
 ● AI Agents with Langgraph (Nodes & Edges)
